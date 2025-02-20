@@ -1,0 +1,6 @@
+
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=B515GV;Database=Movies;Integrated Security=True;"
+  }
+}

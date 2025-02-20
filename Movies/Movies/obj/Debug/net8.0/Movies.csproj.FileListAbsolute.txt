@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Movies\Movies\bin\Debug\net8.0\Movies.exe
+C:\Users\Administrator\source\repos\Movies\Movies\bin\Debug\net8.0\Movies.deps.json
+C:\Users\Administrator\source\repos\Movies\Movies\bin\Debug\net8.0\Movies.runtimeconfig.json
+C:\Users\Administrator\source\repos\Movies\Movies\bin\Debug\net8.0\Movies.dll
+C:\Users\Administrator\source\repos\Movies\Movies\bin\Debug\net8.0\Movies.pdb
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.dll
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\refint\Movies.dll
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.pdb
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\ref\Movies.dll
+C:\Users\Administrator\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.csproj.AssemblyReference.cache
